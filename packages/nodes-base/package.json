@@ -71,6 +71,7 @@
       "dist/credentials/ConvertKitApi.credentials.js",
       "dist/credentials/CopperApi.credentials.js",
       "dist/credentials/CortexApi.credentials.js",
+      "dist/nodes/CortexXdr/CortexXdr.node.js",
       "dist/credentials/CrateDb.credentials.js",
       "dist/credentials/CustomerIoApi.credentials.js",
       "dist/credentials/DeepLApi.credentials.js",
